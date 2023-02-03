@@ -1,3 +1,4 @@
+[![alt text](https://github.com/Tanntech/Banner/blob/main/GitHub%20Banner.png)]
 - 👋 Hi, I’m @Tanntech
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++
