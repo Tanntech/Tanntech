@@ -1,6 +1,15 @@
 <img src="https://github.com/Tanntech/Tanntech/blob/main/GitHubBanner.png">
 
 
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @Tanntech
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++
