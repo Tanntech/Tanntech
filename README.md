@@ -1,4 +1,4 @@
-[![alt text](https://github.com/Tanntech/Banner/blob/main/GitHub%20Banner.png)]
+![alt text for screen readers](/https://github.com/Tanntech/Banner/blob/main/GitHubBanner.png "Text to show on mouseover")     
 - 👋 Hi, I’m @Tanntech
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C++
