@@ -1,4 +1,6 @@
-<img src="https://github.com/Tanntech/Tanntech/blob/main/GitHubBanner.png">
+![Header](./your-header-image-name.png)
+
+
 
 
 
