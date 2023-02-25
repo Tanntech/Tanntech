@@ -3,6 +3,7 @@
 
 ![GitHubBannernew](https://user-images.githubusercontent.com/107943015/221357499-dbbf92ed-8be4-46b8-b6ea-54952312e244.png)
 
+<img src="https://raw.githubusercontent.com/Tanntech/Tanntech/main/path/GithubBanner.png">
 
 
 
