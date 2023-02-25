@@ -1,4 +1,4 @@
-![Header](GitHubBannernew.png)
+<img src="./Tanntech/Tanntech/blob/main/GitHubBannernew.png?raw=true" alt="GitHubBannernew.png">
 
 
 
