@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Tanntech/Tanntech/README.md/path/to/image.png
+<img src="https://raw.githubusercontent.com/Tanntech/Tanntech/README.md/GitHubBannernew.png"
 "
 
 
